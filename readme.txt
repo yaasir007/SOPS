@@ -11,6 +11,7 @@ A – Apache – this is the web server software.
 M – MySQL – Database.
 P – PHP
 P – Perl – scripting language
+
 Why use XAMPP?
 XAMPP provides an easy-to-use control panel to manage Apache, MySQL, and other programs without using commands. To use PHP, we need to install Apache and MySQL. It’s not easy to install Apache and configure it as it needs to be set up and integrated with PHP and Perl, among other things. XAMPP deals with all the complexity to set up and integrate Apache with PHP and Perl.
 

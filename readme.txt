@@ -35,3 +35,20 @@ Web Application consists of:
 4. Bootstrap
 5. Font Awesome
 6. PHP
+
+
+User stories: 
+1. The user is able to login.
+2. The user is able to select a date.
+3. The user will not be able to select a previous date.
+4. The booking is made on a daily basis.
+5. The user is able to select a zone in which he/she can park their car.
+6. The user is able to select a parking slot.
+7. If a user has booked a slot in zone 1 for 12 January, the web app will prevent another user from booking the same parking slot for the same date.
+8. When a slot is booked, a full display confirmation will be provided to the user.
+9.  Once the user confirms, the credit for the current will automatically be deducted.
+10. When a user is signed up, a default credit amunt will automatically be assigned to the user.
+11. The user is able to view their profile.
+12. The user is able to edit their personal information.
+13. The user is able their records of previous bookings.
+

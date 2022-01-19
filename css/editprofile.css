@@ -1,0 +1,51 @@
+body {
+            background: rgb(240, 240, 240);
+            background: -webkit-linear-gradient(right, rgb(240, 240, 240),rgb(0, 191, 216));
+            background: -moz-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: -o-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: linear-gradient(to left, rgb(240, 240, 240), rgb(0, 191, 216));
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale; 
+            margin: 0;     
+}
+.signup-form{
+	width:400px;
+	margin: 0 auto;
+	padding-top:30px;
+
+}
+
+.signup-form input{
+	width: 90%;
+	height: 40px;
+	padding:0px 5%;
+	margin-bottom: 4px;
+	border: none;
+	background-color: #fff;
+	font-family: arial;
+    font-size: 16px;
+    color: #111;
+    line-height: 40px;
+}
+
+.signup-form button{
+	text-align: center;
+	margin: 0 auto; 
+	width: 30%;
+	height: 40px;
+	border: none;
+	background-color: #222;
+	font-family: arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+	font-style: oblique;
+	font-weight: bold;
+	font-family: New Times Romans;
+}

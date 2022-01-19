@@ -1,0 +1,63 @@
+.error {
+            color: red ;
+            font-size: 50px;
+            height: 300px;
+            width: 1000px;
+            position: relative;
+            border: 10px solid red; 
+}
+body {
+            background: rgb(240, 240, 240);
+            background: -webkit-linear-gradient(right, rgb(240, 240, 240),rgb(0, 191, 216));
+            background: -moz-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: -o-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: linear-gradient(to left, rgb(240, 240, 240), rgb(0, 191, 216));
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;    
+            margin: 0;  
+}
+.button {
+  border-radius: 10px;
+  background-color: #333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  width: 170px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 3px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.text {
+  font-size: 35px;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: New Times Romans;
+}

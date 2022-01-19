@@ -1,0 +1,17 @@
+body {
+            background: rgb(240, 240, 240);
+            background: -webkit-linear-gradient(right, rgb(240, 240, 240),rgb(0, 191, 216));
+            background: -moz-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: -o-linear-gradient(right, rgb(240, 240, 240), rgb(0, 191, 216));
+            background: linear-gradient(to left, rgb(240, 240, 240), rgb(0, 191, 216));
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            margin: 0;  
+}
+.middle {
+	 padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 250px;
+}

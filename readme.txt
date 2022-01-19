@@ -24,5 +24,6 @@ Now regarding the web app, here are some things that you need to know.
 Once XAMP is installed, launch it and go to PHPMyAdmin and import the SQL file for the app.
 The web app will launch on localhost, you can create a new user and you can use the existing user below:
 
+The Web application is called Smart Online Parking System.
 Username - yaasir@admin.com
 Password - Password1

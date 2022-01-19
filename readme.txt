@@ -27,3 +27,11 @@ The web app will launch on localhost, you can create a new user and you can use 
 The Web application is called Smart Online Parking System.
 Username - yaasir@admin.com
 Password - Password1
+
+Web Application consists of:
+1. HTML
+2. CSS
+3. Javascript
+4. Bootstrap
+5. Font Awesome
+6. PHP

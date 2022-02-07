@@ -15,33 +15,33 @@ Because it enables them to: peacefully secure a parking beforehands
 ## How to fork this repo.
 In order to run this web application, you will need to fork the repo and then download XAMP.
 XAMP is the server of choice that I decided to run this application on.
-<br>
+<br><br>
 What is XAMP?
 XAMPP is an open-source, cross-platform web server that consists of a web server, MySQL database engine, and PHP and Perl programming packages. It is compiled and maintained by Apache. It allows users to create WordPress websites online using a local web server on their computer. It supports Windows, Linux, and Mac.
-<br>
+<br><br>
 It is compiled and maintained by apache. The acronym XAMPP stands for;
 X – [cross platform operating systems] meaning it can run on any OS Mac OX , Windows , Linux etc.
 A – Apache – this is the web server software.
 M – MySQL – Database.
 P – PHP
 P – Perl – scripting language
-<br>
+<br><br>
 Why use XAMPP?
 XAMPP provides an easy-to-use control panel to manage Apache, MySQL, and other programs without using commands. To use PHP, we need to install Apache and MySQL. It’s not easy to install Apache and configure it as it needs to be set up and integrated with PHP and Perl, among other things. XAMPP deals with all the complexity to set up and integrate Apache with PHP and Perl.
-<br>
+<br><br>
 Unlike Java that runs with the Java SDK only, PHP requires a web-server to work.
-<br>
+<br><br>
 Access this link and follow the steps to install XAMP - https://www.wikihow.com/Install-XAMPP-for-Windows
-<br>
+<br><br>
 Now regarding the web app, here are some things that you need to know.
 <br>
 Once XAMP is installed, launch it and go to PHPMyAdmin and import the SQL file for the app.
 The web app will launch on localhost, you can create a new user and you can use the existing user below:
-<br>
+<br><br>
 The Web application is called Smart Online Parking System.
 Username - yaasir@admin.com
 Password - Password1
-<br>
+<br><br>
 
 ## User Stories
 1. The user is able to login.<br>
